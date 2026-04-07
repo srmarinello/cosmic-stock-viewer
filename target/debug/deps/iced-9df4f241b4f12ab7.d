@@ -1,0 +1,13 @@
+/home/silvio/Desenvolvimento/cosmic-stock-viewer/target/debug/deps/iced-9df4f241b4f12ab7.d: /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/lib.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/error.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application/timed.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/daemon.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/time.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window/icon.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/advanced.rs
+
+/home/silvio/Desenvolvimento/cosmic-stock-viewer/target/debug/deps/libiced-9df4f241b4f12ab7.rmeta: /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/lib.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/error.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application/timed.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/daemon.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/time.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window/icon.rs /home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/advanced.rs
+
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/lib.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/error.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/application/timed.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/daemon.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/time.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/window/icon.rs:
+/home/silvio/.cargo/git/checkouts/libcosmic-41009aea1d72760b/7a02c9a/iced/src/advanced.rs:

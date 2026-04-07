@@ -1,0 +1,12 @@
+/home/silvio/Desenvolvimento/cosmic-stock-viewer/target/debug/deps/rangemap-fe20ae25660851f3.d: /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/lib.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_map.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_set.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/map.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/operations.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/set.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/range_wrapper.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/std_ext.rs
+
+/home/silvio/Desenvolvimento/cosmic-stock-viewer/target/debug/deps/librangemap-fe20ae25660851f3.rmeta: /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/lib.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_map.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_set.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/map.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/operations.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/set.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/range_wrapper.rs /home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/std_ext.rs
+
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/lib.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_map.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/inclusive_set.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/map.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/operations.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/set.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/range_wrapper.rs:
+/home/silvio/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rangemap-1.7.1/src/std_ext.rs:
